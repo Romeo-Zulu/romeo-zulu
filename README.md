@@ -1,16 +1,19 @@
-### Hi there 👋
+# Jorg Ariet
+***born in Bs. As and live in Chubut, Patagonia Argentina.
+working in pc assembly since 2002.
+Currently studying at a Full-stack JavaScript bootcamp of [Undefined Academy](https://undefined.academy/)***
 
-<!--
-**Romeo-Zulu/romeo-zulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ``A list of my favorite aliases``
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Aliases| Description|
+|--- |---|
+|       cl                 | clear             |
+|mk| make a dir|
+|gh|Find a command in the terminal history|
+ |npmd|npm run dev|
+ |npms|npm start|
+ ## ``Other useful alias commands``
+ |Aliases | Description|
+ |---|---|
+ |rm|send to trash|
+ |aptup|sudo apt update && sudo apt upgrade|
