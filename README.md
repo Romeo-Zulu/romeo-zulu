@@ -5,15 +5,18 @@ Currently studying at a Full-stack JavaScript bootcamp of [Undefined Academy](ht
 
 ### ``A list of my favorite Commands``
 
-| Commands| Description|
-|--- |---|
-|       cl                 | clear             |
-|mk| make a dir|
-|gh|Find a command in the terminal history|
- |npmd|npm run dev|
- |npms|npm start|
- ## ``Other useful alias commands``
- |Aliases | Description|
- |---|---|
- |rm|send to trash|
- |aptup|sudo apt update && sudo apt upgrade|
+| Commands                 |            Description               |
+|--------------------------|--------------------------------------|
+|cl                        | clear                                |
+|mk                        | make a dir                           |
+|cd                        |Change directory                      |
+|npmd|npm run dev|
+|npms|npm start|
+ ## ``List of my most used aliases``
+
+```bash
+alias ..='cd ..'
+alias aptup='sudo apt update && sudo apt upgrade'
+alias rm='trash'
+alias list='ls -la'
+```
