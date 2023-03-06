@@ -3,9 +3,9 @@
 working in pc assembly since 2002.
 Currently studying at a Full-stack JavaScript bootcamp of [Undefined Academy](https://undefined.academy/)***
 
-### ``A list of my favorite aliases``
+### ``A list of my favorite Commands``
 
-| Aliases| Description|
+| Commands| Description|
 |--- |---|
 |       cl                 | clear             |
 |mk| make a dir|
